@@ -1,0 +1,7 @@
+E:\PROJECT\SDG\SDG.Dao\obj\Debug\SDG.Dao.csprojResolveAssemblyReference.cache
+E:\PROJECT\SDG\SDG.Dao\bin\Debug\SDG.Dao.dll
+E:\PROJECT\SDG\SDG.Dao\bin\Debug\SDG.Dao.pdb
+E:\PROJECT\SDG\SDG.Dao\bin\Debug\SGD.Entities.dll
+E:\PROJECT\SDG\SDG.Dao\bin\Debug\SGD.Entities.pdb
+E:\PROJECT\SDG\SDG.Dao\obj\Debug\SDG.Dao.dll
+E:\PROJECT\SDG\SDG.Dao\obj\Debug\SDG.Dao.pdb

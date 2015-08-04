@@ -1,0 +1,10 @@
+E:\PROJECT\SDG\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\PROJECT\SDG\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\PROJECT\SDG\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\PROJECT\SDG\ConsoleApplication1\bin\Debug\SDG.Dao.dll
+E:\PROJECT\SDG\ConsoleApplication1\bin\Debug\SGD.Entities.dll
+E:\PROJECT\SDG\ConsoleApplication1\bin\Debug\SDG.Dao.pdb
+E:\PROJECT\SDG\ConsoleApplication1\bin\Debug\SGD.Entities.pdb
+E:\PROJECT\SDG\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\PROJECT\SDG\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\PROJECT\SDG\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

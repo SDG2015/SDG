@@ -1,0 +1,12 @@
+E:\PROJECT\SDG\SDG\bin\Debug\SDG.exe.config
+E:\PROJECT\SDG\SDG\bin\Debug\SDG.exe
+E:\PROJECT\SDG\SDG\bin\Debug\SDG.pdb
+E:\PROJECT\SDG\SDG\bin\Debug\SDG.Dao.dll
+E:\PROJECT\SDG\SDG\bin\Debug\SGD.Entities.dll
+E:\PROJECT\SDG\SDG\bin\Debug\SDG.Dao.pdb
+E:\PROJECT\SDG\SDG\bin\Debug\SGD.Entities.pdb
+E:\PROJECT\SDG\SDG\obj\Debug\SDG.csprojResolveAssemblyReference.cache
+E:\PROJECT\SDG\SDG\obj\Debug\SDG.Properties.Resources.resources
+E:\PROJECT\SDG\SDG\obj\Debug\SDG.csproj.GenerateResource.Cache
+E:\PROJECT\SDG\SDG\obj\Debug\SDG.exe
+E:\PROJECT\SDG\SDG\obj\Debug\SDG.pdb

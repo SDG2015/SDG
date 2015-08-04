@@ -1,0 +1,5 @@
+E:\PROJECT\SDG\SGD.Entities\bin\Debug\SGD.Entities.dll
+E:\PROJECT\SDG\SGD.Entities\bin\Debug\SGD.Entities.pdb
+E:\PROJECT\SDG\SGD.Entities\obj\Debug\SGD.Entities.dll
+E:\PROJECT\SDG\SGD.Entities\obj\Debug\SGD.Entities.pdb
+E:\PROJECT\SDG\SGD.Entities\obj\Debug\SGD.Entities.csprojResolveAssemblyReference.cache
